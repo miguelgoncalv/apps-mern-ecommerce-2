@@ -6,6 +6,7 @@
   "description": "frontend for Mern ecommerce app",
   "author": "Miguel Goncalves",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
